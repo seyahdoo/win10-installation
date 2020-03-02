@@ -1,7 +1,7 @@
 # win10-installation
 
 
-1- download win 10 ltsb iso
+1- [download](https://www.reddit.com/r/Piracy/comments/9kw6ff/windows_10_ltsc_2019_x64_en_iso/) win 10 ltsb iso
 name: en_windows_10_enterprise_ltsc_2019_x64_dvd_74865958.iso
 size: 3878287360 bytes (3698 MiB)
 sha1: 0B8476EFF31F957590ADE6FE671F16161037D3F6
