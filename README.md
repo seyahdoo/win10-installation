@@ -27,6 +27,3 @@ Computer Configuration > Administrative Templates > Windows Components > Windows
 Computer Configuration > Administrative Templates > Windows Components > Windows Defender Antivirus > Real-time Protection > Turn on behavior monitoring > Disabled 
 ```
 
-5- 
-
-
