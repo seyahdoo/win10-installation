@@ -27,3 +27,10 @@ Computer Configuration > Administrative Templates > Windows Components > Windows
 Computer Configuration > Administrative Templates > Windows Components > Windows Defender Antivirus > Real-time Protection > Turn on behavior monitoring > Disabled 
 ```
 
+5- install firefox
+
+6- uninstall internet explorer
+
+7- install mpc-hc
+
+8- uninstall windows media player
