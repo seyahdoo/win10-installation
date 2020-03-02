@@ -27,10 +27,15 @@ Computer Configuration > Administrative Templates > Windows Components > Windows
 Computer Configuration > Administrative Templates > Windows Components > Windows Defender Antivirus > Real-time Protection > Turn on behavior monitoring > Disabled 
 ```
 
-5- install firefox
+5- install (firefox)[https://www.mozilla.org/en-US/firefox/download/thanks/]
 
 6- uninstall internet explorer
+```
+go to "turn windows features on or off" using start menu search function
+untick "Internet Explorer 11"
+press ok, then restart
+```
 
-7- install mpc-hc
+7- install (mpc-hc)[https://mpc-hc.org/]
 
 8- uninstall windows media player
