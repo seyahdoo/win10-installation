@@ -18,7 +18,7 @@ file system: Large FAT32
 
 3- boot from flash drive and install normal (not the N) version
 
-4- disable win 10 anti virus program using group policy open gpedit.msc and appy below settings
+4- disable win 10 anti virus program using group policy, open gpedit.msc and appy below settings
 ```
 Computer Configuration > Administrative Templates > Windows Components > Windows Defender Antivirus > Turn off Windows Defender Antivirus > Enabled
 Computer Configuration > Administrative Templates > Windows Components > Windows Defender Antivirus > Real-time Protection > Turn on behavior monitoring > Disabled 
