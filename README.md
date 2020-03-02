@@ -43,5 +43,15 @@ go to "turn windows features on or off" using start menu search function
 untick "Windows Media Player inside Media Features"
 press ok, then restart
 ```
-9- (optional) use program in this [link](https://github.com/CHEF-KOCH/HWIDGEN-SRC/raw/master/src/externals/hwid.kms38.gen.mk6.exe) in KMS38 mode as a dirty little pirate
+9- disable windows security notification app
+```
+open Task Manager
+go to Startup
+click Windows Secority notification icon
+press Disable
+```
+
+10- (optional) use program in this [link](https://github.com/CHEF-KOCH/HWIDGEN-SRC/raw/master/src/externals/hwid.kms38.gen.mk6.exe) in KMS38 mode as a dirty little pirate
+
+
 
