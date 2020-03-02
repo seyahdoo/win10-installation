@@ -44,3 +44,5 @@ go to "turn windows features on or off" using start menu search function
 untick "Windows Media Player inside Media Features"
 press ok, then restart
 ```
+9- (optional) use below program in this (link)[https://github.com/CHEF-KOCH/HWIDGEN-SRC/raw/master/src/externals/hwid.kms38.gen.mk6.exe] in KMS38 mode
+
