@@ -7,6 +7,9 @@ size: 3878287360 bytes (3698 MiB)
 sha1: 0B8476EFF31F957590ADE6FE671F16161037D3F6
 
 2- setup flash drive for installation using [rufus](https://github.com/pbatard/rufus/releases/download/v3.9/rufus-3.9p.exe)
+partition scheme: GPT
+target system: UEFI
+file system: Large FAT32
 
 3- boot from flash drive and install normal (not the N) version
 
