@@ -1,4 +1,4 @@
-# win10-installation
+# Windows 10 LTSB Installation (cleanest win 10 ever)
 
 
 1- [download](https://www.reddit.com/r/Piracy/comments/9kw6ff/windows_10_ltsc_2019_x64_en_iso/) win 10 ltsb iso
