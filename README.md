@@ -16,7 +16,11 @@ target system: UEFI
 file system: Large FAT32
 ```
 
-3- boot from flash drive and install normal (not the N) version
+3- boot from flash drive and install windows
+```
+on os settings choose normal (not the N) version
+on privacy settings set everything to off
+```
 
 4- disable win 10 anti virus program using group policy, open gpedit.msc and appy below settings
 ```
