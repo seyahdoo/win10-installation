@@ -57,5 +57,10 @@ press Disable
 
 10- (optional) use program in this [link](https://github.com/CHEF-KOCH/HWIDGEN-SRC/raw/master/src/externals/hwid.kms38.gen.mk6.exe) in KMS38 mode as a dirty little pirate
 
+11- (optional) install posy's cursors http://www.michieldb.nl/other/cursors/
+
+12- (optional) install seyahdoo turkish programmer keyboard https://github.com/seyahdoo/turkish-programmer-keyboard-layout
+
+13- (optional) install seyahdoo desktop mod ahk https://github.com/seyahdoo/AHK
 
 
